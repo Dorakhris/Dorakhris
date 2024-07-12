@@ -47,7 +47,7 @@ My passion for security and the evolution of the internet has led me to pursue a
 <img src="https://img.shields.io/badge/-Cisco%20Junior%20Cybersecurity%20Analyst-1a73e8?&style=for-the-badge&logo=Cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20Candidate-ef3e47?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2%20Candidate-ef3e47?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B%20701%20Candidate-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 
 </div>
