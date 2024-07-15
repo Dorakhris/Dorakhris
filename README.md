@@ -53,5 +53,5 @@ My passion for security and the evolution of the internet has led me to pursue a
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Dorakhris/Vulnerability-Assessment-lab/blob/main">Vulnerability-Assessment-lab</a>
 - SOC Automation Project
