@@ -1,12 +1,11 @@
 ## Hi, I'm Dorathy Christopher 👋
 <a href="https://linkedin.com/in/dorathychristopher"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+Welcome to My GitHub Repository!
+I’m Dorathy Christopher, a cybersecurity specialist with hands-on experience in incident response, digital forensics, and Identity and Access Management (IAM). This repository is a reflection of my journey and expertise in the field of cybersecurity, showcasing my projects and skills.
 
-Welcome to my GitHub repository! I am Dorathy Christopher, a cybersecurity specialist with a strong focus on digital forensics and threat intelligence. This repository showcases my journey, projects, and skills in the field of cybersecurity
-
-## Objective
-
-My passion for security and the evolution of the internet has led me to pursue a career in cybersecurity, with a specific focus on digital forensics. I am currently preparing for the CompTIA Security+ SY0-701 exam while continuously expanding my knowledge through hands-on projects and real-world scenarios. My goal is to leverage my analytical skills and expertise in digital forensics to contribute to a dynamic cybersecurity team, helping to protect organizations by uncovering and analyzing cyber threats.
+Objective
+Driven by my passion for security and the evolving landscape of the internet, I’m dedicated to a career in cybersecurity with a focus on digital forensics. I am currently preparing for the CompTIA Security+ SY0-701 exam while continually expanding my knowledge through practical projects and real-world scenarios. My goal is to apply my analytical skills and hands-on experience in incident response, digital forensics, and security audits to contribute to a dynamic cybersecurity team. I aim to help protect organizations by developing and implementing security frameworks, conducting thorough vulnerability assessments, and analyzing cyber threats to align with business objectives.
 
 ## Skills
 
