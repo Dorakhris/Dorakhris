@@ -68,3 +68,4 @@ My passion for security and the evolution of the internet has led me to pursue a
 - <a href="https://github.com/Dorakhris/Vulnerability-Assessment-lab/blob/main">Vulnerability-Assessment-lab</a>
 - <a href="https://github.com/Dorakhris/Security-audit/blob/main/README.md">Security-audit</a>
 - <a href="https://github.com/Dorakhris/Incident-Journal/blob/main/README.md">Incident-Journal</a>
+- <a href="https://github.com/Dorakhris/Forensics-Analysis-The-Stolen-Szechuan-Sauce/blob/main/README.md">Forensics-Analysis-The-Stolen-Szechuan-Sauce</a>
