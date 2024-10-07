@@ -5,7 +5,7 @@ Welcome to My GitHub Repository!
 I’m Dorathy Christopher, a cybersecurity specialist with hands-on experience in incident response, digital forensics, and Identity and Access Management (IAM). This repository is a reflection of my journey and expertise in the field of cybersecurity, showcasing my projects and skills.
 
 ## Objective
-Driven by my passion for security and the evolving landscape of the internet, I’m dedicated to a career in cybersecurity with a focus on digital forensics. I am currently preparing for the CompTIA Security+ SY0-701 exam while continually expanding my knowledge through practical projects and real-world scenarios. My goal is to apply my analytical skills and hands-on experience in incident response, digital forensics, and security audits to contribute to a dynamic cybersecurity team. I aim to help protect organizations by developing and implementing security frameworks, conducting thorough vulnerability assessments, and analyzing cyber threats to align with business objectives.
+Fueled by a passion for cybersecurity and the dynamic nature of the internet, I am committed to a career in digital forensics and Governance, Risk, and Compliance (GRC). I am continuously expanding my knowledge through practical projects and real-world experiences. My goal is to apply my analytical skills and hands-on experience in incident response, digital forensics, and GRC to contribute to a forward-thinking cybersecurity team. I aim to help protect organizations by developing and implementing security frameworks, conducting thorough vulnerability assessments, and analyzing cyber threats to align with business objectives.
 
 ## Skills
 
