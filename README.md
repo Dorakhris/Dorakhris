@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/dorathychristopher"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to My GitHub Repository!
-I'm Dorathy Christopher, a cybersecurity specialist with hands-on experience in incident response, digital forensics, and Governance, Risk, and Compliance (GRC). This repository reflects my journey and expertise in the field of cybersecurity, showcasing my projects and skills.
+I'm Dorathy Christopher, a cybersecurity professional with hands-on experience in incident response, digital forensics, and Governance, Risk, and Compliance (GRC). This repository reflects my journey and expertise in the field of cybersecurity, showcasing my projects and skills.
 
 ## Objective
 Fueled by a passion for cybersecurity and the dynamic nature of the internet, I am committed to a career in digital forensics and Governance, Risk, and Compliance (GRC). I am continuously expanding my knowledge through practical projects and real-world experiences. My goal is to apply my analytical skills and hands-on experience in incident response, digital forensics, and GRC to contribute to a forward-thinking cybersecurity team. I aim to help protect organizations by developing and implementing security frameworks, conducting thorough vulnerability assessments, and analyzing cyber threats to align with business objectives.
