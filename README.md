@@ -68,4 +68,4 @@ Fueled by a passion for cybersecurity and the dynamic nature of the internet, I 
 - <a href="https://github.com/Dorakhris/Security-audit/blob/main/README.md">Security-audit</a>
 - <a href="https://github.com/Dorakhris/Incident-Journal/blob/main/README.md">Incident-Journal</a>
 - <a href="https://github.com/Dorakhris/Forensics-Analysis-The-Stolen-Szechuan-Sauce/blob/main/README.md">Forensics-Analysis-The-Stolen-Szechuan-Sauce</a>
-- <a href="https://github.com/Dorakhris/Forensics-Analysis-The-Stolen-Szechuan-Sauce/blob/main/README.md">Forensics-Analysis-The-Stolen-Szechuan-Sauce</a
+- <a href="https://github.com/Dorakhris/Phishing-Email-Analysis/edit/main/README.md">Phishing-Email-Analysis</a>
