@@ -23,15 +23,15 @@ Driven by a passion for cybersecurity, I aim to excel in DFIR, SOC, and Threat I
 - **OSINT**: Maltego, SpiderFoot
 
 ## Projects
-<a href="https://github.com/Dorakhris/Vulnerability-Assessment-lab/blob/main">Vulnerability-Assessment-lab</a>**: Scanned a lab network with Nessus, identified CVEs, and recommended mitigations.
+<a href="https://github.com/Dorakhris/Vulnerability-Assessment-lab/blob/main">Vulnerability-Assessment-lab</a>: Scanned a lab network with Nessus, identified CVEs, and recommended mitigations.
 
-<a href="https://github.com/Dorakhris/Security-audit/blob/main/README.md">Security-audit</a>**: Hardened a Linux server, documented security controls.
+<a href="https://github.com/Dorakhris/Security-audit/blob/main/README.md">Security-audit</a>: Hardened a Linux server, documented security controls.
 
-<a href="https://github.com/Dorakhris/Incident-Journal/blob/main/README.md">Incident-Journal</a>**: Simulated and documented several attacks response mecahnism.
+<a href="https://github.com/Dorakhris/Incident-Journal/blob/main/README.md">Incident-Journal</a>: Simulated and documented several attacks response mecahnism.
 
-<a href="https://github.com/Dorakhris/Forensics-Analysis-The-Stolen-Szechuan-Sauce/blob/main/README.md">Forensics-Analysis-The-Stolen-Szechuan-Sauce</a>**: Analyzed a disk image with Autopsy, mapped to MITRE ATT&CK.
+<a href="https://github.com/Dorakhris/Forensics-Analysis-The-Stolen-Szechuan-Sauce/blob/main/README.md">Forensics-Analysis-The-Stolen-Szechuan-Sauce</a>: Analyzed a disk image with Autopsy, mapped to MITRE ATT&CK.
 
-<a href="https://github.com/Dorakhris/Phishing-Email-Analysis/edit/main/README.md">Phishing-Email-Analysis</a>**: Investigated a phishing email, traced malicious IPs via OSINT.
+<a href="https://github.com/Dorakhris/Phishing-Email-Analysis/edit/main/README.md">Phishing-Email-Analysis</a>: Investigated a phishing email, traced malicious IPs via OSINT.
 
 ## Badges
 <img src="https://img.shields.io/badge/-Cisco%20Junior%20Cybersecurity%20Analyst-1a73e8?&style=for-the-badge&logo=Cisco&logoColor=white" />
