@@ -32,6 +32,7 @@ Driven by a passion for cybersecurity, I aim to excel in DFIR, SOC, and Threat I
 <a href="https://github.com/Dorakhris/Forensics-Analysis-The-Stolen-Szechuan-Sauce/blob/main/README.md">Forensics-Analysis-The-Stolen-Szechuan-Sauce</a>: Analyzed a disk image with Autopsy, mapped to MITRE ATT&CK.
 
 <a href="https://github.com/Dorakhris/Phishing-Email-Analysis/edit/main/README.md">Phishing-Email-Analysis</a>: Investigated a phishing email, traced malicious IPs via OSINT.
+<a href="https://github.com/Dorakhris/Threat-Intelligence-Analysis-of-Ransomeware/blob/main/README.md">Threat-Intelligence-Analysis-of-Ransomeware
 
 ## Badges
 <img src="https://img.shields.io/badge/-Cisco%20Junior%20Cybersecurity%20Analyst-1a73e8?&style=for-the-badge&logo=Cisco&logoColor=white" />
