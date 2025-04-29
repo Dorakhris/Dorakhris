@@ -1,4 +1,43 @@
-## Hi, I'm Dorathy Christopher 👋
+# Dorathy Christopher | Blue Team Cybersecurity Specialist 👋
+
+I’m a cybersecurity professional specializing in **Digital Forensics**, **Incident Response**, and **SOC operations**, with a passion for defending against cyber threats. Skilled in tools like Autopsy, Wireshark, and Splunk, I’m exploring **Governance, Risk, and Compliance (GRC)** to broaden my impact.
+
+## Objective
+Driven by a passion for cybersecurity, I aim to excel in DFIR, SOC, and Threat Intelligence. Through hands-on projects, I leverage tools like Autopsy, Splunk, and Wireshark to investigate threats and secure environments. I’m excited to explore GRC to strengthen organizational security through policy and compliance.
+
+## Skills
+- **Digital Forensics**: Memory analysis (Volatility), disk imaging (Autopsy, FTK Imager)
+- **Incident Response**: Log analysis (Splunk, ELK Stack), incident handling
+- **Threat Intelligence**: OSINT (Maltego, SpiderFoot), MITRE ATT&CK mapping
+- **SOC Operations**: SIEM (Splunk, QRadar basics), network monitoring (Wireshark)
+- **Scripting**: Python, Bash
+- **Frameworks**: NIST CSF, MITRE ATT&CK
+- **Tools**: Autopsy, FTK Imager, Wireshark, Nessus, Splunk, Volatility
+- **Future Interest**: GRC (learning NIST 800-53, ISO 27001)
+
+## Tools
+- **Network**: Wireshark, Nmap, Zeek
+- **SIEM**: Splunk, ELK Stack
+- **Forensics**: Autopsy, FTK Imager, Volatility
+- **Vulnerability Management**: Nessus, OpenVAS
+- **OSINT**: Maltego, SpiderFoot
+
+## Projects
+- **[Vulnerability-Assessment-lab](link)**: Scanned a lab network with Nessus, identified CVEs, and recommended mitigations.
+- **[Security-audit](link)**: Hardened a Linux server, documented security controls.
+- **[Incident-Journal](link)**: Simulated a brute-force attack response using Splunk.
+- **[Forensics-Analysis-The-Stolen-Szechuan-Sauce](link)**: Analyzed a disk image with Autopsy, mapped to MITRE ATT&CK.
+- **[Phishing-Email-Analysis](link)**: Investigated a phishing email, traced malicious IPs via OSINT.
+
+## Badges
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-blue)](https://www.comptia.org/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity-orange)](https://tryhackme.com/)
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/dorathychristopher/)
+- Email: dorathy.christopher@example.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)## Hi, I'm Dorathy Christopher 👋
 <a href="https://linkedin.com/in/dorathychristopher"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to My GitHub Repository!
