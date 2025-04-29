@@ -27,7 +27,7 @@ Driven by a passion for cybersecurity, I aim to excel in DFIR, SOC, and Threat I
 
 <a href="https://github.com/Dorakhris/Security-audit/blob/main/README.md">Security-audit</a>: Hardened a Linux server, documented security controls.
 
-<a href="https://github.com/Dorakhris/Incident-Journal/blob/main/README.md">Incident-Journal</a>: Simulated and documented several attacks response mecahnism.
+<a href="https://github.com/Dorakhris/Incident-Journal/blob/main/README.md">Incident-Journal</a>: Simulated and documented several attacks response mechanism.
 
 <a href="https://github.com/Dorakhris/Forensics-Analysis-The-Stolen-Szechuan-Sauce/blob/main/README.md">Forensics-Analysis-The-Stolen-Szechuan-Sauce</a>: Analyzed a disk image with Autopsy, mapped to MITRE ATT&CK.
 
