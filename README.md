@@ -36,7 +36,7 @@ Leveraging my skills in DFIR, SOC, Threat Intelligence, and in-depth Malware Ana
 
 <a href="https://github.com/Dorakhris/Threat-Intelligence-Analysis-of-Ransomeware/blob/main/README.md">Threat-Intelligence-Analysis-of-Ransomeware</a>: Identified DarkSide ransomware via VirusTotal and Python, created a YARA rule, and mapped TTPs to MITRE ATT&CK, aligning with NIST 800-53.
 
-<a href="https://github.com/Dorakhris/Malware-Analysis/blob/main/README.md)">Static & Dynamic Malware Analysis of .NET Executable</a>: Comprehensive analysis of a suspicious 32-bit .NET executable. Performed static analysis (PEview, Detect It Easy, HxD) identifying potential "Confuser" obfuscation. Conducted dynamic analysis in a sandboxed VM (ProcMon, Regshot, Wireshark, FakeNet-NG) uncovering self-replication to C:\Program Files\emages\emages.exe, persistence via Registry Run Key (HKCU\...\Run\emages), and C2 communication attempts to fortyfive5.ydns.eu. Documented findings, IoCs, and mitigation steps.
+<a href="[https://github.com/Dorakhris/Malware-Analysis/blob/main/README.md]">Static & Dynamic Malware Analysis of .NET Executable</a>: Comprehensive analysis of a suspicious 32-bit .NET executable. Performed static analysis (PEview, Detect It Easy, HxD) identifying potential "Confuser" obfuscation. Conducted dynamic analysis in a sandboxed VM (ProcMon, Regshot, Wireshark, FakeNet-NG) uncovering self-replication to C:\Program Files\emages\emages.exe, persistence via Registry Run Key (HKCU\...\Run\emages), and C2 communication attempts to fortyfive5.ydns.eu. Documented findings, IoCs, and mitigation steps.
 ## Badges
 <img src="https://img.shields.io/badge/-Cisco%20Junior%20Cybersecurity%20Analyst-1a73e8?&style=for-the-badge&logo=Cisco&logoColor=white" />
 
