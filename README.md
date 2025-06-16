@@ -4,11 +4,11 @@
 
 > Passionate and analytical Cybersecurity Analyst specializing in the full spectrum of defensive operations, from proactive threat hunting in a SOC to  digital forensics and malware analysis.
 
+
 My hands-on experience spans a comprehensive suite of industry-standard tools, including **Splunk, Wireshark, Autopsy, Volatility, and advanced malware analysis utilities**. I am currently expanding my expertise into **Governance, Risk, and Compliance (GRC)**, enabling me to bridge the gap between critical technical investigations and strategic business risk management.
 
 This portfolio is a showcase of my dedication to continuous learning and my proven ability to protect and defend digital environments.
 
----
 
 ## Core Competencies & Skills
 
@@ -19,12 +19,10 @@ This portfolio is a showcase of my dedication to continuous learning and my prov
 | ✅ **Incident Response**: Triage, Containment, Eradication| ✅ **Threat Intelligence**: OSINT, MITRE ATT&CK | ✅ **Vulnerability Management**: Nessus, OpenVAS|
 | ✅ **Scripting**: Python, Bash | ✅ **YARA Rule Creation** | ✅ **Security Auditing & Hardening** |
 
----
 
 ## Featured Projects
-
-### Splunk-Based Threat Analysis of OpenSSH Logs
-<a href="https://github.com/Dorakhris/Splunk-Log-Analysis">
+ 
+**<a href="https://github.com/Dorakhris/Splunk-Log-Analysis/blob/main/README.md">Splunk-Based Threat Analysis of OpenSSH Logs</a>**
   <img align="right" width="200" src="https://user-images.githubusercontent.com/10972851/158226921-1c5c793c-2e67-4f4c-8118-a6d19a27e693.png" alt="Splunk Logo">
 </a>
 Conducted a full-cycle SOC investigation on live OpenSSH logs using **Splunk Cloud**. This project involved:
