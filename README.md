@@ -14,15 +14,15 @@ This portfolio is a showcase of my dedication to continuous learning and my prov
 
 | **Defensive Operations (Blue Team)** | **Threat Analysis & Forensics (DFIR)** | **Governance & Frameworks (GRC)** |
 | :--- | :--- | :--- |
-| ✅ **SIEM & Log Analysis**: Splunk, ELK | ✅ **Malware Analysis**: Static/Dynamic, Sandboxing, RE | ✅ **Frameworks**: NIST CSF, ISO 27001 |
-| ✅ **Network Security Monitoring**: Wireshark, Zeek | ✅ **Digital Forensics**: Autopsy, FTK Imager, Volatility | ✅ **Compliance**: NIST 800-53 Mapping |
-| ✅ **Incident Response**: Triage, Containment, Eradication| ✅ **Threat Intelligence**: OSINT, MITRE ATT&CK | ✅ **Vulnerability Management**: Nessus, OpenVAS|
-| ✅ **Scripting**: Python, Bash | ✅ **YARA Rule Creation** | ✅ **Security Auditing & Hardening** |
+| **SIEM & Log Analysis**: Splunk, ELK | **Malware Analysis**: Static/Dynamic, Sandboxing, RE | **Frameworks**: NIST CSF, ISO 27001 |
+| **Network Security Monitoring**: Wireshark, Zeek | **Digital Forensics**: Autopsy, FTK Imager, Volatility | **Compliance**: NIST 800-53 Mapping |
+| **Incident Response**: Triage, Containment, Eradication| **Threat Intelligence**: OSINT, MITRE ATT&CK |**Vulnerability Management**: Nessus, OpenVAS|
+| **Scripting**: Python, Bash | **YARA Rule Creation** | **Security Auditing & Hardening** |
 
 
 ## Featured Projects
  
-**<a href="https://github.com/Dorakhris/Splunk-Log-Analysis/blob/main/README.md">Splunk-Based Threat Analysis of OpenSSH Logs</a>**
+- **<a href="https://github.com/Dorakhris/Splunk-Log-Analysis/blob/main/README.md">Splunk-Based Threat Analysis of OpenSSH Logs</a>**
 Conducted a full-cycle SOC investigation on live OpenSSH logs using **Splunk Cloud**. This project involved:
 - **Ingesting and parsing** semi-structured log data.
 - **Hunting for threats** using advanced SPL queries to uncover a targeted **brute-force attack**, **user enumeration**, and high-risk **Indicators of Compromise (IOCs)**.
