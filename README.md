@@ -23,8 +23,6 @@ This portfolio is a showcase of my dedication to continuous learning and my prov
 ## Featured Projects
  
 **<a href="https://github.com/Dorakhris/Splunk-Log-Analysis/blob/main/README.md">Splunk-Based Threat Analysis of OpenSSH Logs</a>**
-  <img align="right" width="200" src="https://user-images.githubusercontent.com/10972851/158226921-1c5c793c-2e67-4f4c-8118-a6d19a27e693.png" alt="Splunk Logo">
-</a>
 Conducted a full-cycle SOC investigation on live OpenSSH logs using **Splunk Cloud**. This project involved:
 - **Ingesting and parsing** semi-structured log data.
 - **Hunting for threats** using advanced SPL queries to uncover a targeted **brute-force attack**, **user enumeration**, and high-risk **Indicators of Compromise (IOCs)**.
