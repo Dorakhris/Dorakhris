@@ -1,9 +1,9 @@
 # Dorathy Christopher | Cybersecurity Analyst
-DFIR • Threat Intelligence • SOC Operations • Malware Analysis
+DFIR • Threat Intelligence • SOC Operations • Auditing
 
 Hello, I'm Dorathy. I am a detail-oriented Cybersecurity Analyst dedicated to protecting digital infrastructures. My passion lies in the full spectrum of defensive security, from proactively hunting for threats in a Security Operations Center to conducting deep-dive digital forensics and malware analysis.
 
-My work focuses on turning raw, complex data into clear, actionable intelligence. I have hands-on experience with a comprehensive suite of industry-standard tools, including **Splunk, Wireshark, Autopsy, and Volatility**. I am also expanding my expertise into **Governance, Risk, and Compliance (GRC)** to better align technical security controls with strategic business objectives.
+My technical skills are now complemented by formal training as an **ISO 27001 Lead Auditor**. This allows me to not only respond to threats but also to formally assess and audit security controls against industry-leading frameworks, bridging the gap between technical implementation and business risk management. I have hands-on experience with a comprehensive suite of tools, including **Splunk, Wireshark, Autopsy, and Volatility**.
 
 This portfolio is a collection of my projects, each one a practical demonstration of my ability to solve real-world security challenges.
 
@@ -11,12 +11,12 @@ This portfolio is a collection of my projects, each one a practical demonstratio
 
 ## Core Competencies and Skills
 
-| Defensive Operations (Blue Team) | Threat Analysis & Forensics (DFIR) | Governance and Frameworks (GRC) |
+| Defensive Operations (Blue Team) | Threat Analysis & Forensics (DFIR) | Governance, Risk, and Compliance (GRC) |
 | :--- | :--- | :--- |
-| **SIEM & Log Analysis**: Splunk, ELK | **Malware Analysis**: Static & Dynamic, Sandboxing | **Frameworks**: NIST CSF, ISO 27001 |
-| **Network Security Monitoring**: Wireshark, Zeek | **Digital Forensics**: Autopsy, FTK Imager, Volatility | **Compliance**: NIST 800-53 Mapping |
-| **Incident Response**: Triage, Containment, Eradication| **Threat Intelligence**: OSINT, MITRE ATT&CK | **Vulnerability Management**: Nessus, OpenVAS |
-| **Scripting**: Python, Bash | **YARA Rule Creation** | **Security Auditing & Hardening** |
+| **SIEM & Log Analysis**: Splunk, ELK | **Malware Analysis**: Static & Dynamic, Sandboxing | **Lead Auditing**: ISO 27001 |
+| **Network Security Monitoring**: Wireshark, Zeek | **Digital Forensics**: Autopsy, FTK Imager, Volatility | **Frameworks**: NIST CSF, ISO 27001 |
+| **Incident Response**: Triage, Containment, Eradication| **Threat Intelligence**: OSINT, MITRE ATT&CK | **Compliance**: NIST 800-53 Mapping |
+| **Scripting**: Python, Bash | **YARA Rule Creation** | **Security Control Assessment** |
 
 ---
 
@@ -39,10 +39,10 @@ To better understand and defend against a prominent threat, I created a detailed
 *   **Key Skills:** `Threat Intelligence`, `MITRE ATT&CK`, `NIST 800-53`, `OSINT`, `YARA`
 *   **[See the Threat Intelligence Profile Here](https://github.com/Dorakhris/Threat-Intelligence-Analysis-of-Ransomeware/blob/main/README.md)**
 
-### Vulnerability Assessment & Automation Lab
-Manual vulnerability patching can be slow and inconsistent. To address this, I built a lab to automate the process. I began by performing an authenticated scan on a Linux and Nginx server using **Nessus** to identify weaknesses. Then, I wrote **Ansible playbooks** to automatically apply the necessary patches and system hardening configurations. The project was completed by verifying the fixes with a follow-up scan and configuring automated email reports.
-*   **Key Skills:** `Vulnerability Management`, `Nessus`, `Automation`, `Ansible`, `Linux Hardening`
-*   **[Explore the Lab and Ansible Playbooks Here](https://github.com/Dorakhris/Vulnerability-Assessment-lab/blob/main)**
+### Linux Server Hardening and Security Audit
+I performed a formal security audit of a Linux server, identifying configuration weaknesses and insecure settings. I then documented my findings and implemented technical controls to harden the system based on security best practices, demonstrating a full audit-remediate-verify cycle. This project showcases my ability to assess systems against security standards and apply practical hardening measures.
+*   **Key Skills:** `Security Auditing`, `Linux Hardening`, `Configuration Management`, `Vulnerability Assessment`
+*   **[Explore the Audit and Hardening Steps Here](https://github.com/Dorakhris/Security-audit/blob/main/README.md)**
 
 ### Digital Forensics Case: The Stolen Szechuan Sauce
 In this scenario, I acted as a forensics investigator tasked with analyzing a compromised disk image. Using **Autopsy** and other forensic tools, I uncovered evidence of data exfiltration and unauthorized access. My investigation involved recovering deleted artifacts, analyzing system and browser logs, and piecing together a timeline of the attacker's actions, which I then mapped to the MITRE ATT&CK framework to create a clear narrative of the breach.
@@ -53,10 +53,11 @@ In this scenario, I acted as a forensics investigator tasked with analyzing a co
 
 ## Certifications
 
+*   ISO 27001 Lead Auditor (Mastermind)
 *   Cisco Junior Cybersecurity Analyst
 *   Google Cybersecurity Professional Certificate
-*   ArcX Cyber Threat Intelligence Practitioner
-*   Comptia Security+ (in-view)
+*   Arcx Cyber Threat Intelligence Practitioner
+*   CompTIA Security+ (in-view)
 
 ---
 
@@ -66,3 +67,5 @@ I am always open to discussing new opportunities and connecting with other profe
 
 *   **[LinkedIn Profile](https://www.linkedin.com/in/dorathychristopher/)**
 *   **[Medium Articles](https://medium.com/@dorathychristopher/)**
+
+
