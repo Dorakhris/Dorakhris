@@ -1,3 +1,11 @@
+Absolutely. Now that the project is complete and the images are working, let's integrate it into your main portfolio. You've earned it after that debugging session.
+
+I have updated your profile to include the "Spear-Phishing Forensics Case" project. I placed it high on the list because it's a classic, narrative-driven investigation that powerfully demonstrates core forensic skills.
+
+Here is the final, comprehensive profile with all your projects included.
+
+---
+
 # Dorathy Christopher | Cybersecurity Analyst
 DFIR • Threat Intelligence • SOC Operations • Auditing
 
@@ -28,33 +36,33 @@ Here are some highlights of my hands-on work, demonstrating my analytical proces
 ### Forensic Investigation of a Spear-Phishing & Data Exfiltration Incident
 This project involved a high-stakes investigation into a data breach where executive statements conflicted. I analyzed a forensic disk image (`.E01`) of a CFO's machine, focusing on the Outlook data file (`.pst`). By dissecting email headers with tools like FTK Imager, I uncovered the "smoking gun": a spoofed email from an external attacker impersonating the company President. This definitively proved the incident was a targeted spear-phishing attack, not an insider threat, and resolved the internal dispute with factual evidence.
 *   **Key Skills:** `Digital Forensics`, `Incident Response`, `Email Forensics`, `FTK Imager`, `Social Engineering Analysis`
-*   **[View the Full Forensic Report Here](link-to-your-project)**
+*   **[View the Full Forensic Report Here](https://github.com/Dorakhris/Spear-Phishing-Forensics-Case/blob/main/Spear-Phishing-Forensics-Case/README.md)**
 
 ### Vulnerability Management & Automated Remediation with Ansible
 This project demonstrates a complete, end-to-end vulnerability management program. I began by identifying critical CVEs on a public-facing Nginx server using **Nessus**. Instead of manual patching, I developed an **Ansible playbook for automated remediation**, ensuring a rapid and consistent fix. The project also included a **strategic risk analysis** of an exposed database server, showcasing my ability to translate technical findings into quantifiable business risks.
 *   **Key Skills:** `Vulnerability Management`, `Ansible`, `Automation`, `Nessus`, `Risk Assessment`
-*   **[See the Analysis and Playbook Here](link-to-your-project)**
+*   **[See the Analysis and Playbook Here](https://github.com/Dorakhris/Vulnerability-Assessment-lab/blob/main/README.md)**
 
 ### GRC Audit of a Retail Business (Botium Toys)
 Acting as an internal auditor, I conducted a formal security audit using the **NIST Cybersecurity Framework (CSF)** as a guide. I assessed the company’s security posture against key regulations like **PCI DSS** and **GDPR**, identifying critical deficiencies in access control and data protection. The final deliverable was a prioritized, actionable roadmap for remediation, demonstrating my ability to bridge technical gaps with strategic business and compliance objectives.
 *   **Key Skills:** `GRC`, `Security Auditing`, `NIST CSF`, `PCI DSS`, `GDPR`, `Risk Management`
-*   **[Review the Audit Report Here](link-to-your-project)**
+*   **[Review the Audit Report Here](https://github.com/Dorakhris/Security-audit/blob/main/README.md)**
 
 
 ### Splunk-Based Threat Analysis of OpenSSH Logs
 In a simulated SOC environment, I took on the challenge of analyzing live OpenSSH logs to detect an active attack. Using advanced SPL queries, I methodically hunted for anomalies and uncovered a multi-stage attack that included a targeted **brute-force campaign** and **successful user enumeration**. I then built real-time monitoring dashboards and configured automated alerts, turning a reactive investigation into a proactive defense mechanism.
 *   **Key Skills:** `Splunk`, `SPL`, `Log Analysis`, `Threat Hunting`, `Incident Detection`
-*   **[View the Project and SPL Queries Here](link-to-your-project)**
+*   **[View the Project and SPL Queries Here](https://github.com/Dorakhris/Splunk-Log-Analysis/blob/main/README.md)**
 
 ### Static & Dynamic Malware Analysis of a .NET Trojan
 Faced with a suspicious .NET executable protected with "Confuser" obfuscation, I performed a comprehensive analysis to determine its capabilities. My investigation revealed its complete lifecycle: self-replication, establishing persistence through registry modifications, and attempting to communicate with a C2 server. I documented all technical IoCs and authored a custom YARA rule for future detection.
 *   **Key Skills:** `Malware Analysis`, `Reverse Engineering`, `Static Analysis`, `Dynamic Analysis`, `YARA`
-*   **[Read the Full Analysis Report Here](link-to-your-project)**
+*   **[Read the Full Analysis Report Here](https://github.com/Dorakhris/Malware-Analysis/blob/main/README.md)**
 
 ### Threat Intelligence Analysis of DarkSide Ransomware
 To better understand and defend against a prominent threat, I created a detailed intelligence profile on the DarkSide ransomware group. Using VirusTotal and OSINT, I identified the group's common TTPs, mapped these behaviors to the **MITRE ATT&CK framework**, and connected them to relevant **NIST 800-53 controls** to show how specific defenses could mitigate the threat.
 *   **Key Skills:** `Threat Intelligence`, `MITRE ATT&CK`, `NIST 800-53`, `OSINT`, `YARA`
-*   **[See the Threat Intelligence Profile Here](link-to-your-project)**
+*   **[See the Threat Intelligence Profile Here]((https://github.com/Dorakhris/Threat-Intelligence-Analysis-of-Ransomeware/blob/main/README.md))**
 
 
 ### Phishing Email Analysis
@@ -65,13 +73,13 @@ I performed a deep forensic analysis of an email impersonating a Microsoft secur
 ### Digital Forensics Case: The Stolen Szechuan Sauce
 In this scenario, I acted as a forensics investigator tasked with analyzing a compromised disk image to solve a data theft case. Using **Autopsy** and other forensic tools, I uncovered evidence of data exfiltration and unauthorized access by recovering deleted artifacts, analyzing system logs, and piecing together a timeline of the attacker's actions, which I then mapped to the MITRE ATT&CK framework.
 *   **Key Skills:** `Digital Forensics`, `Incident Response`, `Autopsy`, `Evidence Analysis`
-*   **[Review the Case File Here](link-to-your-project)**
+*   **[Review the Case File Here](https://github.com/Dorakhris/Forensics-Analysis-The-Stolen-Szechuan-Sauce/blob/main/README.md)**
 
 
 ### Incident Handler's Journal: A Multi-Scenario Response
 This project documents my experience as a lead incident handler across three distinct, high-pressure scenarios: a **live ransomware attack**, a **data breach and extortion** attempt, and a **proactive vulnerability assessment**. For each case, I used a full suite of tools (Splunk, EDR, Volatility, Nessus) to manage the incident lifecycle, from initial detection and containment to eradication and recovery. The journal showcases my ability to adapt and apply the right skills to different threat contexts while aligning actions with compliance needs like HIPAA and PCI DSS.
 *   **Key Skills:** `Incident Response`, `SOC Operations`, `Splunk`, `Ransomware`, `Forensics`
-*   **[Explore the Journal Entries Here](link-to-your-project)**
+*   **[Explore the Journal Entries Here](https://github.com/Dorakhris/Incident-Journal/blob/main/README.md)**
 
 ## Certifications
 
