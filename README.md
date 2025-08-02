@@ -54,7 +54,7 @@ Faced with a suspicious .NET executable protected with "Confuser" obfuscation, I
 ### Threat Intelligence Analysis of DarkSide Ransomware
 To better understand and defend against a prominent threat, I created a detailed intelligence profile on the DarkSide ransomware group. Using VirusTotal and OSINT, I identified the group's common TTPs, mapped these behaviors to the **MITRE ATT&CK framework**, and connected them to relevant **NIST 800-53 controls** to show how specific defenses could mitigate the threat.
 *   **Key Skills:** `Threat Intelligence`, `MITRE ATT&CK`, `NIST 800-53`, `OSINT`, `YARA`
-*   **[See the Threat Intelligence Profile Here]((https://github.com/Dorakhris/Threat-Intelligence-Analysis-of-Ransomeware/blob/main/README.md))**
+*   **[See the Threat Intelligence Profile Here](https://github.com/Dorakhris/Threat-Intelligence-Analysis-of-Ransomeware/blob/main/README.md)**
 
 
 ### Phishing Email Analysis
