@@ -3,7 +3,7 @@ DFIR • Threat Intelligence • SOC Operations • Auditing
 
 Hello, I'm Dorathy. I am a detail-oriented Cybersecurity Analyst dedicated to protecting digital infrastructures. My passion lies in the full spectrum of defensive security, from proactively hunting for threats in a Security Operations Center to conducting deep-dive digital forensics and malware analysis.
 
-My technical skills are now complemented by formal training as an **ISO 27001 Lead Auditor**. This allows me to not only respond to threats but also to formally assess and audit security controls against industry-leading frameworks, bridging the gap between technical implementation and business risk management. I have hands-on experience with a comprehensive suite of tools, including **Splunk, Nessus, Wireshark, Autopsy, Ansible, and Volatility**.
+My technical skills are now complemented by formal training as an **ISO 27001 Lead Auditor**. This allows me to not only respond to threats but also to formally assess and audit security controls against industry-leading frameworks, bridging the gap between technical implementation and business risk management. I have hands-on experience with a comprehensive suite of tools, including **Splunk, Nessus, Wireshark, Autopsy, Ansible, FTK Imager and Volatility**.
 
 This portfolio is a collection of my projects, each one a practical demonstration of my ability to solve real-world security challenges.
 
@@ -26,7 +26,7 @@ Here are some highlights of my hands-on work, demonstrating my analytical proces
 
 
 ### Forensic Investigation of a Spear-Phishing & Data Exfiltration Incident
-I was brought in as the lead forensic investigator for a high-stakes incident at M57dotBIZ. A confidential file containing employee PII and salaries was leaked, and the source was traced to the CFO's computer. The situation was tense, as the CFO, Jean Jones, claimed she sent the file at the request of the President, Alison Smith, who adamantly denied it. My task was to use digital evidence to cut through the conflicting stories, establish a definitive chain of events, and find the digital truth. By performing a deep analysis of email headers, I proved the message was a sophisticated spoof from an external attacker, resolving the internal dispute and identifying the true source of the breach.
+I was brought in as the lead forensic investigator for a high-stakes incident at M57dotBIZ. A confidential file containing employee PII and salaries was leaked, and the source was traced to the CFO's computer. The situation was tense, as the CFO, Jean Jones, claimed she sent the file at the request of the President, Alison Smith, who adamantly denied it. My task was to use digital evidence to cut through the conflicting stories, establish a definitive chain of events, and find the truth. By performing a deep analysis of email headers, I proved the message was a sophisticated spoof from an external attacker, resolving the internal dispute and identifying the true source of the breach.
 *   **Key Skills:** Digital Forensics, Email Forensics, Incident Response, FTK Imager, Social Engineering Analysis
 *   **[View the Full Forensic Report Here](https://github.com/Dorakhris/Spear-Phishing-Forensics-Case/blob/main/Spear-Phishing-Forensics-Case/README.md)**
 
