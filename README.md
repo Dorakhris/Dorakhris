@@ -26,8 +26,8 @@ Here are some highlights of my hands-on work, demonstrating my analytical proces
 
 
 ### Forensic Investigation of a Spear-Phishing & Data Exfiltration Incident
-This project involved a high-stakes investigation into a data breach where executive statements conflicted. I analyzed a forensic disk image (`.E01`) of a CFO's machine, focusing on the Outlook data file (`.pst`). By dissecting email headers with tools like FTK Imager, I uncovered the "smoking gun": a spoofed email from an external attacker impersonating the company President. This definitively proved the incident was a targeted spear-phishing attack, not an insider threat, and resolved the internal dispute with factual evidence.
-*   **Key Skills:** `Digital Forensics`, `Incident Response`, `Email Forensics`, `FTK Imager`, `Social Engineering Analysis`
+I was brought in as the lead forensic investigator for a high-stakes incident at M57dotBIZ. A confidential file containing employee PII and salaries was leaked, and the source was traced to the CFO's computer. The situation was tense, as the CFO, Jean Jones, claimed she sent the file at the request of the President, Alison Smith, who adamantly denied it. My task was to use digital evidence to cut through the conflicting stories, establish a definitive chain of events, and find the digital truth. By performing a deep analysis of email headers, I proved the message was a sophisticated spoof from an external attacker, resolving the internal dispute and identifying the true source of the breach.
+Key Skills: Digital Forensics, Email Forensics, Incident Response, FTK Imager, Social Engineering Analysis
 *   **[View the Full Forensic Report Here](https://github.com/Dorakhris/Spear-Phishing-Forensics-Case/blob/main/Spear-Phishing-Forensics-Case/README.md)**
 
 ### Vulnerability Management & Automated Remediation with Ansible
