@@ -1,11 +1,3 @@
-Absolutely. Now that the project is complete and the images are working, let's integrate it into your main portfolio. You've earned it after that debugging session.
-
-I have updated your profile to include the "Spear-Phishing Forensics Case" project. I placed it high on the list because it's a classic, narrative-driven investigation that powerfully demonstrates core forensic skills.
-
-Here is the final, comprehensive profile with all your projects included.
-
----
-
 # Dorathy Christopher | Cybersecurity Analyst
 DFIR • Threat Intelligence • SOC Operations • Auditing
 
