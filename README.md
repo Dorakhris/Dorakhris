@@ -30,6 +30,12 @@ I was brought in as the lead forensic investigator for a high-stakes incident at
 *   **Key Skills:** Digital Forensics, Email Forensics, Incident Response, FTK Imager, Social Engineering Analysis
 *   **[View the Full Forensic Report Here](https://github.com/Dorakhris/Spear-Phishing-Forensics-Case/blob/main/Spear-Phishing-Forensics-Case/README.md)**
 
+### Memory Forensics Investigation of Cridex Malware
+I was brought in to investigate a critical security alert on a workstation handling sensitive financial data. The system's endpoint detection tool had flagged anomalous network traffic, but the root cause was unknown, and traditional antivirus scans found nothing. With the risk of a silent data breach looming, my mission was to dig deep into the machine's live memory to find the truth. The challenge was to find an attacker who might not have left a single trace on the hard drive. By performing a meticulous memory forensics analysis with Volatility, I was able to bypass the attacker's stealth techniques, pinpoint a Cridex banking trojan hiding inside a legitimate Windows process, and uncover its entire operational playbook—from its secret hideout to its live C2 channels and its ultimate goal of intercepting encrypted data.
+*   **Key Skills:** `Memory Forensics`, `Live System Analysis`, `Malware Analysis`, `Network Forensics`, `Incident Analysis`
+*   **[See the Analysis and Playbook Here](https://github.com/Dorakhris/Memory-Forensics-Investigation-of-Cridex-Malware/blob/main/README.md)**
+
+
 ### Vulnerability Management & Automated Remediation with Ansible
 This project demonstrates a complete, end-to-end vulnerability management program. I began by identifying critical CVEs on a public-facing Nginx server using **Nessus**. Instead of manual patching, I developed an **Ansible playbook for automated remediation**, ensuring a rapid and consistent fix. The project also included a **strategic risk analysis** of an exposed database server, showcasing my ability to translate technical findings into quantifiable business risks.
 *   **Key Skills:** `Vulnerability Management`, `Ansible`, `Automation`, `Nessus`, `Risk Assessment`
