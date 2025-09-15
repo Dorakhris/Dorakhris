@@ -33,7 +33,7 @@ To streamline investigations, I developed **DOSINT**, a command-line tool design
 ### AWS Incident Response: Investigating a Compromised IAM User
 I designed and executed a full-cycle cloud incident response exercise in AWS, acting as both the attacker and defender. I simulated a breach using a compromised IAM user (KeyHunter) to enumerate and access a sensitive S3 bucket. Then, as the responding analyst, I used **AWS CloudTrail** to trace the attacker's TTPs, from initial login to S3 discovery. This project demonstrates my end-to-end experience in detecting and remediating threats within a modern cloud environment.
 *   **Key Skills:** `Cloud Security`, `AWS`, `Incident Response`, `CloudTrail`, `IAM`, `S3`
-*   **[View the Full Incident Report Here](link-to-your-project)**
+*   **[View the Full Incident Report Here](https://github.com/Dorakhris/AWS-Incident-Response-Investigating-a-Compromised-IAM-User)**
 
 ### Memory Forensics Investigation of Cridex Malware
 I investigated a workstation with anomalous network traffic that evaded traditional AV scans. By performing a meticulous memory forensics analysis with **Volatility**, I bypassed the attacker's stealth techniques to uncover a Cridex banking trojan hiding inside a legitimate Windows process. My investigation revealed its entire operational playbook—from process injection to its live C2 channels—and its ultimate goal of intercepting encrypted financial data.
