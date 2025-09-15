@@ -11,9 +11,13 @@ I enjoy turning investigations into clear case studies that show not just the pr
 ## Tools and Techniques I Use
 
 **Forensics:** Autopsy, FTK Imager, Volatility, Velociraptor
+
 **SOC/Monitoring:** Splunk, Wireshark, Wazuh
+
 **Cloud Security:** AWS CloudTrail, IAM, GuardDuty
+
 **Threat Intelligence:** MITRE ATT&CK, YARA, OSINT
+
 **Programming & Automation:** Python, PowerShell, Bash
 
 
