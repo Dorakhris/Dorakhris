@@ -1,23 +1,20 @@
-# Dorathy Christopher | Cybersecurity Professional
-DFIR • Threat Intelligence • SOC Operations • Auditing
+# Dorathy Christopher | Cybersecurity Analyst
 
-Hello, I'm Dorathy. I am a detail-oriented Cybersecurity Analyst dedicated to protecting digital infrastructures. My passion lies in the full spectrum of defensive security, from proactively hunting for threats in a Security Operations Center to conducting deep-dive digital forensics and malware analysis.
+Hello, I’m Dorathy. I am a detail-oriented Cybersecurity Analyst focused on protecting digital infrastructures. My passion is in digital forensics and incident response, from investigating malware and phishing to building tools that make investigations faster and more effective.
 
-My technical skills are now complemented by formal training as an **ISO 27001 Lead Auditor**. This allows me to not only respond to threats but also to formally assess and audit security controls against industry-leading frameworks, bridging the gap between technical implementation and business risk management. I have hands-on experience with a comprehensive suite of tools, including **Splunk, AWS, Nessus, Wireshark, Autopsy, Ansible, and Volatility**.
-
-This portfolio is a collection of my projects, each one a practical demonstration of my ability to solve real-world security challenges.
+I enjoy turning investigations into clear case studies that show not just the process, but the results. This GitHub is a portfolio of my hands-on security projects, each one designed to reflect real-world challenges and how I approach solving them.
 
 
 
-## Core Competencies and Skills
 
-| Defensive Operations (Blue Team) | Threat Analysis & Forensics (DFIR) | Governance, Risk, and Compliance (GRC) |
-| :--- | :--- | :--- |
-| **SIEM & Log Analysis**: Splunk, ELK | **Malware Analysis**: Static & Dynamic, Sandboxing | **Lead Auditing**: ISO 27001 |
-| **Cloud Security & IR**: AWS, CloudTrail, IAM | **Digital Forensics**: Autopsy, FTK Imager, Volatility | **Frameworks**: NIST CSF, ISO 27001 |
-| **Incident Response**: Triage, Containment, Eradication| **Threat Intelligence**: OSINT, MITRE ATT&CK | **Compliance**: NIST 800-53, PCI DSS, GDPR |
-| **Automation & Tool Dev**: Ansible, Python, Bash | **YARA Rule Creation** | **Risk & Control Assessment** |
 
+## Tools and Techniques I Use
+
+**Forensics:** Autopsy, FTK Imager, Volatility, Velociraptor
+**SOC/Monitoring:** Splunk, Wireshark, Wazuh
+**Cloud Security:** AWS CloudTrail, IAM, GuardDuty
+**Threat Intelligence:** MITRE ATT&CK, YARA, OSINT
+**Programming & Automation:** Python, PowerShell, Bash
 
 
 ## Featured Projects
@@ -56,7 +53,7 @@ Acting as an internal auditor, I conducted a formal security audit using the **N
 
 
 
-## Certifications
+## Credentials
 
 *   ISO 27001 Lead Auditor (Mastermind)
 *   Cisco Junior Cybersecurity Analyst
