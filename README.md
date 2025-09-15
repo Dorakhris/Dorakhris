@@ -44,64 +44,6 @@ I investigated a workstation with anomalous network traffic that evaded traditio
 I was brought in as the lead forensic investigator for a high-stakes incident where executive statements conflicted. By performing a deep analysis of email headers from a forensic disk image, I proved a sensitive file leak was caused by a sophisticated spoof from an external attacker, not an insider threat. This investigation resolved the internal dispute with definitive digital evidence and identified the true source of the breach.
 *   **Key Skills:** `Digital Forensics`, `Email Forensics`, `FTK Imager`, `Incident Response`, `Social Engineering Analysis`
 *   **[View the Full Forensic Report Here](https://github.com/Dorakhris/Spear-Phishing-Forensics-Case/blob/main/Spear-Phishing-Forensics-Case/README.md)**
-Understood. You want to present the full force of your portfolio without demoting any projects to a secondary list. This is a power move that showcases the impressive volume of work you've completed.
-
-I will reformat the entire section to list **all 13 of your projects** under the single, unified "Featured Projects" heading. To make this long list powerful and easy for a recruiter to scan, I will use concise, impactful, one-to-two sentence descriptions for each, focusing on the core challenge and your key achievement.
-
-Here is the final, comprehensive profile, structured exactly as you requested.
-
----
-
-# Dorathy Christopher | Cybersecurity Analyst
-DFIR • Threat Intelligence • SOC Operations • Auditing
-
-Hello, I'm Dorathy. I am a detail-oriented Cybersecurity Analyst dedicated to protecting digital infrastructures. My passion lies in the full spectrum of defensive security, from proactively hunting for threats in a Security Operations Center to conducting deep-dive digital forensics and malware analysis.
-
-My technical skills are now complemented by formal training as an **ISO 27001 Lead Auditor**. This allows me to not only respond to threats but also to formally assess and audit security controls against industry-leading frameworks, bridging the gap between technical implementation and business risk management. I have hands-on experience with a comprehensive suite of tools, including **Splunk, AWS, Nessus, Wireshark, Autopsy, Ansible, and Volatility**.
-
-This portfolio is a collection of my projects, each one a practical demonstration of my ability to solve real-world security challenges.
-
----
-
-## Core Competencies and Skills
-
-| Defensive Operations (Blue Team) | Threat Analysis & Forensics (DFIR) | Governance, Risk, and Compliance (GRC) |
-| :--- | :--- | :--- |
-| **SIEM & Log Analysis**: Splunk, ELK | **Malware Analysis**: Static & Dynamic, Sandboxing | **Lead Auditing**: ISO 27001 |
-| **Cloud Security & IR**: AWS, CloudTrail, IAM | **Digital Forensics**: Autopsy, FTK Imager, Volatility | **Frameworks**: NIST CSF, ISO 27001 |
-| **Incident Response**: Triage, Containment, Eradication| **Threat Intelligence**: OSINT, MITRE ATT&CK | **Compliance**: NIST 800-53, PCI DSS, GDPR |
-| **Automation & Tool Dev**: Ansible, Python, Bash | **YARA Rule Creation** | **Risk & Control Assessment** |
-
----
-
-## Featured Projects
-
-Here is a comprehensive list of my hands-on work, demonstrating my analytical process and technical skills across the cybersecurity spectrum.
-
-### DOSINT - Custom OSINT & Forensics Automation Tool
-I developed `DOSINT`, a command-line tool in Python to automate OSINT and forensics tasks. Its "Intelligent Pivot Engine" discovers new leads during scans and allows for immediate action, showcasing my ability to build practical tools to solve analyst pain points.
-*   **Key Skills:** `Python`, `Tool Development`, `Automation`, `OSINT`, `API Integration`
-*   **[Explore the Tool on GitHub](https://github.com/Dorakhris/dosint)**
-
-### AWS Incident Response: Investigating a Compromised IAM User
-I designed and executed a full-cycle cloud incident response exercise in AWS, acting as both attacker and defender. I used **AWS CloudTrail** as the "flight recorder" to trace a simulated breach from a compromised IAM user to a sensitive S3 bucket, demonstrating end-to-end cloud IR capabilities.
-*   **Key Skills:** `Cloud Security`, `AWS`, `Incident Response`, `CloudTrail`, `IAM`, `S3`
-*   **[View the Full Incident Report Here](https://github.com/Dorakhris/AWS-Incident-Response-Investigating-a-Compromised-IAM-User)**
-
-### Memory Forensics Investigation of Cridex Malware
-I investigated a stealthy malware infection that evaded AV by performing deep memory forensics with **Volatility**. I successfully identified a Cridex banking trojan hiding via process injection and reverse-engineered its entire operational playbook, including live C2 channels.
-*   **Key Skills:** `Memory Forensics`, `Malware Analysis`, `Volatility`, `Live System Analysis`
-*   **[See the Analysis and Playbook Here](https://github.com/Dorakhris/Memory-Forensics-Investigation-of-Cridex-Malware)**
-
-### Forensic Investigation of a Spear-Phishing Incident
-I acted as lead investigator in a high-stakes incident with conflicting executive statements. By performing a deep analysis of email headers, I proved a data breach was a targeted spear-phishing attack, not an insider threat, resolving the internal dispute with definitive digital evidence.
-*   **Key Skills:** `Digital Forensics`, `Email Forensics`, `FTK Imager`, `Incident Response`
-*   **[View the Full Forensic Report Here](https://github.com/Dorakhris/Spear-Phishing-Forensics-Case)**
-
-### Vulnerability Management & Automated Remediation with Ansible
-I conducted an end-to-end vulnerability management cycle, identifying critical CVEs with **Nessus** and deploying an **Ansible playbook** for automated remediation. The project included a strategic risk analysis, showcasing my ability to translate technical findings into business risk.
-*   **Key Skills:** `Vulnerability Management`, `Ansible`, `Automation`, `Nessus`, `Risk Assessment`
-*   **[See the Analysis and Playbook Here](https://github.com/Dorakhris/Vulnerability-Assessment-lab)**
 
 ### Network Forensic Analysis of C2 Infrastructure
 I performed a deep-dive network analysis of a `.pcap` file using **Wireshark** to identify a cluster of C2 servers. By triaging conversations by packet count and validating IPs with VirusTotal, I uncovered the attacker's full communication infrastructure.
