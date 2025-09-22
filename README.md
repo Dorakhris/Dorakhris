@@ -1,4 +1,4 @@
-# Dorathy Christopher | Cybersecurity Analyst
+# Dorathy Christopher | DFIR Analyst
 
 Hello, I’m Dorathy. I am a detail-oriented Cybersecurity Analyst focused on protecting digital infrastructures. My passion is in digital forensics and incident response, from investigating malware and phishing to building tools that make investigations faster and more effective.
 
