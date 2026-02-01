@@ -30,6 +30,11 @@ To streamline investigations, I developed **DOSINT**, a command-line tool design
 *   **Key Skills:** `Python`, `Tool Development`, `Automation`, `OSINT`, `API Integration`, `Forensics`
 *   **[Explore the Tool on GitHub](https://github.com/Dorakhris/dosint)**
 
+### Strategic Threat Intelligence Analysis for a Professional Services Firm
+I conduct a comprehensive analysis of the cyber threat landscape targeting a major professional services firm (Deloitte). The goal was to identify the most potent threat actors, analyze their TTPs, and provide a strategic roadmap for leadership to mitigate current and future risks.
+*   **Key Skills:** `Threat Intelligence`, `MITRE ATT&CK`, `NIST 800-53`, `OPENCTI`
+*   **[View the Full Incident Report Here](https://github.com/Dorakhris/Strategic-Threat-Intelligence-Analysis-for-a-Professional-Services-Firm)**
+  
 ### AWS Incident Response: Investigating a Compromised IAM User
 I designed and executed a full-cycle cloud incident response exercise in AWS, acting as both the attacker and defender. I simulated a breach using a compromised IAM user (KeyHunter) to enumerate and access a sensitive S3 bucket. Then, as the responding analyst, I used **AWS CloudTrail** to trace the attacker's TTPs, from initial login to S3 discovery. This project demonstrates my end-to-end experience in detecting and remediating threats within a modern cloud environment.
 *   **Key Skills:** `Cloud Security`, `AWS`, `Incident Response`, `CloudTrail`, `IAM`, `S3`
