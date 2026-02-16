@@ -14,7 +14,7 @@ I enjoy turning investigations into clear case studies that show not just the pr
 
 **SOC/Monitoring:** Splunk, Wireshark, Wazuh
 
-**Cloud Security:** AWS CloudTrail, IAM, GuardDuty
+**Cloud Security:** AWS CloudTrail, IAM, GuardDuty, Azure Microsoft Sentinel
 
 **Threat Intelligence:** MITRE ATT&CK, YARA, OSINT
 
