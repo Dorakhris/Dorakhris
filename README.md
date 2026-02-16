@@ -38,7 +38,7 @@ I conduct a comprehensive analysis of the cyber threat landscape targeting a maj
 ### Azure Cloud Security Engineering: A Defense-in-Depth Implementation
 This project demonstrates the implementation of a comprehensive, multi-layered security architecture within Microsoft Azure. Following the Defense-in-Depth strategy, I established security controls across nine distinct areas, including identity management, network segmentation, container security, and automated threat response. The goal was to build a resilient environment capable of protecting sensitive data while providing full visibility and automated mitigation of security threats.
 *   **Key Skills:** `Cloud Security`, `Azure`, `Incident Response`, `Microsoft Sentinel`, `IAM`, `JIT`
-*   **[View the Full Incident Report Here][(https://github.com/Dorakhris/Azure-Cloud-Security-Engineering-A-Defense-in-Depth-Implementation)]**
+*   **[View the Full Incident Report Here](https://github.com/Dorakhris/Azure-Cloud-Security-Engineering-A-Defense-in-Depth-Implementation)**
   
 ### AWS Incident Response: Investigating a Compromised IAM User
 I designed and executed a full-cycle cloud incident response exercise in AWS, acting as both the attacker and defender. I simulated a breach using a compromised IAM user (KeyHunter) to enumerate and access a sensitive S3 bucket. Then, as the responding analyst, I used **AWS CloudTrail** to trace the attacker's TTPs, from initial login to S3 discovery. This project demonstrates my end-to-end experience in detecting and remediating threats within a modern cloud environment.
