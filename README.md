@@ -34,6 +34,11 @@ I designed and implemented a comprehensive, multi-layered security architecture 
 I conducted a comprehensive analysis of the cyber threat landscape targeting a major professional services firm (Deloitte). Using the OpenCTI platform, I identified the most potent threat actors, analyzed their TTPs, and provided a strategic roadmap for leadership to mitigate current and future risks based on trends like session hijacking.
 *   **Key Skills:** `Threat Intelligence`, `MITRE ATT&CK`, `NIST 800-53`, `OpenCTI`
 *   **[View the Full Intelligence Report Here](https://github.com/Dorakhris/Strategic-Threat-Intelligence-Analysis-for-a-Professional-Services-Firm)**
+
+### Security Policy Framework Development for a Consulting Firm
+As a GRC analyst for a simulated financial consulting firm, I was tasked with building its security governance from the ground up. I authored a comprehensive suite of 10 foundational policies aligned with the ISO 27002:2022 framework, covering everything from Incident Management to AI Usage. The project culminated in the creation of a formal Policy Compliance Framework to ensure ongoing monitoring, enforcement, and audit-readiness.
+*   **Key Skills:** `GRC`, `ISO 27002`, `Policy Development`, `Compliance Management`, `Risk Assessment`
+*   **[View the Full Policy Report Here](https://github.com/Dorakhris/Security-Policy-Framework-Development)**
   
 ### AWS Incident Response: Investigating a Compromised IAM User
 I designed and executed a full-cycle cloud incident response exercise in AWS, acting as both the attacker and defender. I used **AWS CloudTrail** as the "flight recorder" to trace a simulated breach from a compromised IAM user to a sensitive S3 bucket, demonstrating end-to-end cloud IR capabilities.
