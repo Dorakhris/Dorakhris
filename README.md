@@ -1,4 +1,4 @@
-# Dorathy Christopher | Cybersecurity Paractitioner
+# Dorathy Christopher | Cybersecurity Practitioner
 DFIR • Offensive Security • Cloud Security • Tool Development
 
 Hello, I’m Dorathy. I am a detail-oriented Cybersecurity Practitioner focused on protecting digital infrastructures. My passion is in the full spectrum of security, from hands-on penetration testing and digital forensics to building tools and securing modern cloud environments.
