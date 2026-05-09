@@ -8,10 +8,15 @@ I enjoy turning complex technical findings into clear case studies that show not
 ## Tools and Techniques I Use
 
 **Offensive Security:** Burp Suite, Nmap, Metasploit, Kali Linux
+
 **Forensics:** Autopsy, FTK Imager, Volatility, Velociraptor
+
 **SOC & Monitoring:** Splunk, Wireshark, Wazuh, Microsoft Sentinel
+
 **Cloud Security:** AWS (CloudTrail, IAM), Azure (Entra ID, Defender, Firewall)
+
 **Threat Intelligence:** MITRE ATT&CK, YARA, OpenCTI, OSINT
+
 **Programming & Automation:** Python, Ansible, PowerShell, Bash
 
 ## Featured Projects
