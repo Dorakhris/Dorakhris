@@ -1,7 +1,7 @@
-# Dorathy Christopher | Cybersecurity Practitioner
+# Dorathy Christopher | Cybersecurity Analyst
 DFIR • Offensive Security • Cloud Security • Tool Development
 
-Hello, I’m Dorathy. I am a detail-oriented Cybersecurity Practitioner focused on protecting digital infrastructures. My passion is in the full spectrum of security, from hands-on penetration testing and digital forensics to building tools and securing modern cloud environments.
+Hello, I’m Dorathy. I am a detail-oriented Cybersecurity Analyst focused on protecting digital infrastructures. My passion is in the full spectrum of security, from hands-on penetration testing and digital forensics to building tools and securing modern cloud environments.
 
 I enjoy turning complex technical findings into clear case studies that show not just the process, but the results. This GitHub is a portfolio of my hands-on security projects, each one designed to reflect real-world challenges and how I approach solving them.
 
