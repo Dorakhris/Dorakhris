@@ -71,3 +71,4 @@ I am always open to discussing new opportunities and connecting with other profe
 
 *   **[LinkedIn Profile](https://www.linkedin.com/in/dorathychristopher/)**
 *   **[Medium Articles](https://medium.com/@dorathychristopher/)**
+*   **[Safempire](https://thesafempire.com/)**
