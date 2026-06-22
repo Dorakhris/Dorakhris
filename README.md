@@ -1,13 +1,13 @@
 # Dorathy Christopher | Cybersecurity Professional
-DFIR • Offensive Security • Cloud Security • Tool Development
+DFIR • GRC  • Tool Development
 
-Hello, I’m Dorathy. I am a detail-oriented Cybersecurity professional focused on protecting digital infrastructures. My passion is in the full spectrum of security, from hands-on penetration testing and digital forensics to building tools and securing modern cloud environments.
+Hello, I’m Dorathy. I am a detail-oriented Cybersecurity professional focused on protecting digital infrastructures. My passion is in the full spectrum of security, from hands-on digital forensics and GRC expertise to building tools and securing modern cloud environments.
 
 I enjoy turning complex technical findings into clear case studies that show not just the process, but the results. This GitHub is a portfolio of my hands-on security projects, each one designed to reflect real-world challenges and how I approach solving them.
 
 ## Tools and Techniques I Use
 
-**Offensive Security:** Burp Suite, Nmap, Metasploit, Kali Linux
+**Offensive Security:** Burp Suite, Nmap, Metasploit
 
 **Forensics:** Autopsy, FTK Imager, Volatility, Velociraptor
 
