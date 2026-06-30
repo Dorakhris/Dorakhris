@@ -1,5 +1,3 @@
-# Dorathy Christopher | Cybersecurity Consultant | Helping organizations strengthen their security posture through consulting, digital forensics, governance, threat intelligence, and security assessments.
-
 Welcome! I'm Dorathy Christopher, a cybersecurity consultant passionate about helping organizations understand, assess, and strengthen their security posture.
 
  I specialize in translating complex security challenges into practical, actionable solutions through cybersecurity consulting, digital forensics, incident response, governance, risk and compliance (GRC), threat intelligence, cloud security, and security assessments.
