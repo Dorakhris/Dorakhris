@@ -98,6 +98,13 @@ The engagement was designed to evaluate the organization's security posture, ass
 
 🔗 https://github.com/Dorakhris/Statement-of-Work
 
+## Enterprise Risk Assessment for SafeConnect
+
+Conducted a comprehensive cybersecurity risk assessment for a technology startup preparing to launch a mobile application. Combined qualitative and quantitative risk analysis by identifying business assets, evaluating threats and vulnerabilities, developing a 5×5 risk matrix, calculating SLE, ALE, and ROSI, and delivering executive recommendations to support risk-informed security investment decisions.
+
+**Skills:** Cybersecurity Consulting • Enterprise Risk Assessment • GRC • Business Risk Management • SLE • ALE • ROSI • Executive Reporting
+
+🔗 https://github.com/Dorakhris/Enterprise-Risk-Assessment-for-SafeConnect-Mobile-Application
 
 
 ## Enterprise Security Audit
