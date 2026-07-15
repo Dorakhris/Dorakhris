@@ -68,7 +68,7 @@ Whether I'm investigating a phishing campaign, developing an enterprise security
 # **Featured Cybersecurity Projects**
 
 
-# **Security Tool Development & Automation**
+# 📌 **Security Tool Development & Automation**
 
 Automation improves efficiency, consistency, and scalability across security operations. These projects demonstrate my ability to develop practical tools that solve real-world security challenges using Python and automation technologies.
 
@@ -92,7 +92,7 @@ Designed an end-to-end vulnerability management workflow by identifying critical
 🔗 https://github.com/Dorakhris/Vulnerability-Assessment-lab
 
 
-# **Cybersecurity Consulting**
+# 📌 **Cybersecurity Consulting**
 These engagements demonstrate my approach to cybersecurity consulting, helping organizations understand their security posture, identify risk, strengthen governance, and make informed security decisions.
 
 Rather than focusing solely on technical findings, these projects emphasize structured assessments, executive communication, regulatory alignment, and practical recommendations that support business objectives.
@@ -199,12 +199,11 @@ The playbook demonstrates how technical investigations can be transformed into r
 
 These projects demonstrate how I approach cybersecurity from a consulting perspective, combining technical expertise with governance, risk management, business communication, regulatory considerations, and executive-focused documentation.
 
-# **Governance, Risk & Compliance (GRC)**
+# 📌 **Governance, Risk & Compliance (GRC)**
 
 Strong cybersecurity is built on more than technology. These projects demonstrate my ability to assess organizational risk, evaluate security controls, develop governance frameworks, and align security programs with industry standards and regulatory requirements.
 
 My approach focuses on helping organizations make informed security decisions through structured assessments, documentation, and risk-based recommendations.
-
 
 
 ## Security Governance Framework Development
@@ -237,7 +236,7 @@ Developed a standardized incident response playbook based on a spear-phishing in
 
 🔗 https://github.com/Dorakhris/Incident-Response-Playbook-Forensic-Investigation-of-Spear-Phishing-Data-Exfiltration
 
-# **Digital Forensics & Incident Response (DFIR)**
+# 📌 **Digital Forensics & Incident Response (DFIR)**
 
 These projects demonstrate my experience investigating cyber incidents, reconstructing attack timelines, analyzing malware, examining volatile memory, recovering forensic artifacts, and producing evidence-based investigation reports.
 
@@ -312,7 +311,7 @@ Maintained a structured incident response journal documenting investigations acr
 🔗 https://github.com/Dorakhris/Incident-Journal
 
 
-# **Threat Intelligence**
+# 📌 **Threat Intelligence**
 
 Understanding threats goes beyond identifying indicators of compromise. These projects focus on analyzing adversaries, mapping tactics, techniques, and procedures (TTPs), assessing organizational exposure, and translating technical intelligence into actionable recommendations for decision-makers.
 
@@ -340,7 +339,7 @@ Mapped adversary behavior to the MITRE ATT&CK Framework and documented indicator
 
 🔗 https://github.com/Dorakhris/Threat-Intelligence-Analysis-of-Ransomeware
 
-# **Cloud Security**
+# 📌 **Cloud Security**
 
 Cloud environments require security to be embedded across identity, networking, monitoring, and incident response. These projects demonstrate my experience implementing secure cloud architectures, investigating cloud incidents, and applying security best practices across AWS and Microsoft Azure.
 
@@ -365,7 +364,7 @@ Conducted a cloud incident response investigation following a simulated IAM cred
 🔗 https://github.com/Dorakhris/AWS-Incident-Response-Investigating-a-Compromised-IAM-User
 
 
-# **Application Security & Penetration Testing**
+# 📌 **Application Security & Penetration Testing**
 
 These projects demonstrate my ability to identify security weaknesses before attackers do. The assessments focus on uncovering exploitable vulnerabilities, validating their impact, and providing practical remediation recommendations.
 
