@@ -1,6 +1,6 @@
 # Welcome! 
 
-I'm Dorathy Christopher, a cybersecurity consultant passionate about helping organizations understand, assess, and strengthen their security posture.
+I'm Dorathy Christopher, a cybersecurity specialist passionate about helping organizations understand, assess, and strengthen their security posture.
 
  I specialize in translating complex security challenges into practical, actionable solutions through cybersecurity consulting, digital forensics, incident response, governance, risk and compliance (GRC), threat intelligence, cloud security, and security assessments.
 
@@ -9,24 +9,6 @@ This GitHub serves as my professional portfolio, showcasing real-world case stud
 Whether I'm investigating a phishing campaign, developing an enterprise security policy framework, conducting a security posture assessment, building a forensic automation tool, or analyzing ransomware activity, my focus remains the same:
 
 > Helping organizations make better security decisions through structured analysis, practical recommendations, and evidence-based cybersecurity.
-
-
-
-# Core Expertise
-
-- Cybersecurity Consulting
-- Digital Forensics & Incident Response (DFIR)
-- Governance, Risk & Compliance (GRC)
-- Security Assessments
-- Threat Intelligence
-- Security Operations (SOC)
-- Cloud Security (AWS & Azure)
-- Web Application Security Testing
-- Malware Analysis
-- Security Automation
-- Python Security Tool Development
-- Security Documentation & Technical Writing
-
 
 
 # Technical Toolkit
