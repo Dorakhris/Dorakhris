@@ -65,8 +65,34 @@ Whether I'm investigating a phishing campaign, developing an enterprise security
 
 
 
-# Featured Cybersecurity Consulting Projects
+# **Featured Cybersecurity Projects**
 
+
+# **Security Tool Development & Automation**
+
+Automation improves efficiency, consistency, and scalability across security operations. These projects demonstrate my ability to develop practical tools that solve real-world security challenges using Python and automation technologies.
+
+
+
+## DOSINT
+
+Developed **DOSINT**, a Python-based OSINT and digital forensics automation framework designed to accelerate investigations through automated data collection and intelligent pivoting between discovered artifacts.
+
+**Skills:** Python • OSINT • Digital Forensics • Automation • CLI Development
+
+🔗 https://github.com/Dorakhris/dosint
+
+
+## Vulnerability Management & Automated Remediation
+
+Designed an end-to-end vulnerability management workflow by identifying critical vulnerabilities with Nessus and automating remediation using Ansible playbooks.
+
+**Skills:** Vulnerability Management • Nessus • Ansible • Automation • Security Operations
+
+🔗 https://github.com/Dorakhris/Vulnerability-Assessment-lab
+
+
+# **Cybersecurity Consulting**
 These engagements demonstrate my approach to cybersecurity consulting, helping organizations understand their security posture, identify risk, strengthen governance, and make informed security decisions.
 
 Rather than focusing solely on technical findings, these projects emphasize structured assessments, executive communication, regulatory alignment, and practical recommendations that support business objectives.
@@ -105,6 +131,15 @@ Conducted a comprehensive cybersecurity risk assessment for a technology startup
 **Skills:** Cybersecurity Consulting • Enterprise Risk Assessment • GRC • Business Risk Management • SLE • ALE • ROSI • Executive Reporting
 
 🔗 https://github.com/Dorakhris/Enterprise-Risk-Assessment-for-SafeConnect-Mobile-Application
+
+## ISO/IEC 27001:2022 Statement of Applicability (SoA) for SafempireSoft
+
+Developed a comprehensive ISO/IEC 27001:2022 Statement of Applicability (SoA) for a software development company by evaluating all 93 Annex A controls against identified business risks. Produced a risk-driven control applicability assessment, documented implementation status, mapped controls to supporting ISMS documentation, and provided a maturity assessment to support ISO 27001 certification readiness.
+
+**Skills:** ISO/IEC 27001 • Information Security Management Systems (ISMS) • Statement of Applicability (SoA) • GRC • Risk Assessment • Risk Treatment • Annex A Controls • Information Security Governance • Compliance • Security Documentation
+
+🔗 https://github.com/Dorakhris/ISO-IEC-27001-2022-Statement-of-Applicability-SoA-
+
 
 
 ## Enterprise Security Audit
@@ -164,7 +199,45 @@ The playbook demonstrates how technical investigations can be transformed into r
 
 These projects demonstrate how I approach cybersecurity from a consulting perspective, combining technical expertise with governance, risk management, business communication, regulatory considerations, and executive-focused documentation.
 
-# Digital Forensics & Incident Response (DFIR)
+# **Governance, Risk & Compliance (GRC)**
+
+Strong cybersecurity is built on more than technology. These projects demonstrate my ability to assess organizational risk, evaluate security controls, develop governance frameworks, and align security programs with industry standards and regulatory requirements.
+
+My approach focuses on helping organizations make informed security decisions through structured assessments, documentation, and risk-based recommendations.
+
+
+
+## Security Governance Framework Development
+
+Designed an enterprise information security governance framework aligned with **ISO/IEC 27002**, including ten foundational security policies and a formal policy compliance framework to support long-term governance and continual improvement.
+
+**Skills:** Information Security Governance • ISO/IEC 27002 • Policy Development • Compliance • Documentation
+
+🔗 https://github.com/Dorakhris/Security-Policy-Framework-Development
+
+
+
+## Enterprise Security Audit
+
+Conducted a security audit using the **NIST Cybersecurity Framework (CSF)** to evaluate organizational security controls against **PCI DSS** and **GDPR** requirements.
+
+Produced a risk-based remediation roadmap designed to strengthen compliance and improve overall security maturity.
+
+**Skills:** Security Auditing • NIST CSF • PCI DSS • GDPR • Compliance Assessment • Risk Analysis
+
+🔗 https://github.com/Dorakhris/Security-audit
+
+
+
+## Incident Response Playbook
+
+Developed a standardized incident response playbook based on a spear-phishing investigation, providing documented procedures for identification, containment, eradication, recovery, and post-incident activities.
+
+**Skills:** Incident Response Planning • Playbook Development • Security Documentation • Security Operations
+
+🔗 https://github.com/Dorakhris/Incident-Response-Playbook-Forensic-Investigation-of-Spear-Phishing-Data-Exfiltration
+
+# **Digital Forensics & Incident Response (DFIR)**
 
 These projects demonstrate my experience investigating cyber incidents, reconstructing attack timelines, analyzing malware, examining volatile memory, recovering forensic artifacts, and producing evidence-based investigation reports.
 
@@ -238,45 +311,8 @@ Maintained a structured incident response journal documenting investigations acr
 
 🔗 https://github.com/Dorakhris/Incident-Journal
 
-# Governance, Risk & Compliance (GRC)
 
-Strong cybersecurity is built on more than technology. These projects demonstrate my ability to assess organizational risk, evaluate security controls, develop governance frameworks, and align security programs with industry standards and regulatory requirements.
-
-My approach focuses on helping organizations make informed security decisions through structured assessments, documentation, and risk-based recommendations.
-
-
-
-## Security Governance Framework Development
-
-Designed an enterprise information security governance framework aligned with **ISO/IEC 27002**, including ten foundational security policies and a formal policy compliance framework to support long-term governance and continual improvement.
-
-**Skills:** Information Security Governance • ISO/IEC 27002 • Policy Development • Compliance • Documentation
-
-🔗 https://github.com/Dorakhris/Security-Policy-Framework-Development
-
-
-
-## Enterprise Security Audit
-
-Conducted a security audit using the **NIST Cybersecurity Framework (CSF)** to evaluate organizational security controls against **PCI DSS** and **GDPR** requirements.
-
-Produced a risk-based remediation roadmap designed to strengthen compliance and improve overall security maturity.
-
-**Skills:** Security Auditing • NIST CSF • PCI DSS • GDPR • Compliance Assessment • Risk Analysis
-
-🔗 https://github.com/Dorakhris/Security-audit
-
-
-
-## Incident Response Playbook
-
-Developed a standardized incident response playbook based on a spear-phishing investigation, providing documented procedures for identification, containment, eradication, recovery, and post-incident activities.
-
-**Skills:** Incident Response Planning • Playbook Development • Security Documentation • Security Operations
-
-🔗 https://github.com/Dorakhris/Incident-Response-Playbook-Forensic-Investigation-of-Spear-Phishing-Data-Exfiltration
-
-# Threat Intelligence
+# **Threat Intelligence**
 
 Understanding threats goes beyond identifying indicators of compromise. These projects focus on analyzing adversaries, mapping tactics, techniques, and procedures (TTPs), assessing organizational exposure, and translating technical intelligence into actionable recommendations for decision-makers.
 
@@ -304,7 +340,7 @@ Mapped adversary behavior to the MITRE ATT&CK Framework and documented indicator
 
 🔗 https://github.com/Dorakhris/Threat-Intelligence-Analysis-of-Ransomeware
 
-# Cloud Security
+# **Cloud Security**
 
 Cloud environments require security to be embedded across identity, networking, monitoring, and incident response. These projects demonstrate my experience implementing secure cloud architectures, investigating cloud incidents, and applying security best practices across AWS and Microsoft Azure.
 
@@ -329,7 +365,7 @@ Conducted a cloud incident response investigation following a simulated IAM cred
 🔗 https://github.com/Dorakhris/AWS-Incident-Response-Investigating-a-Compromised-IAM-User
 
 
-# Application Security & Penetration Testing
+# **Application Security & Penetration Testing**
 
 These projects demonstrate my ability to identify security weaknesses before attackers do. The assessments focus on uncovering exploitable vulnerabilities, validating their impact, and providing practical remediation recommendations.
 
@@ -345,7 +381,7 @@ The assessment identified eleven critical and high-severity vulnerabilities, inc
 
 🔗 https://github.com/Dorakhris/Web-Application-Penetration-Test-of-a-Healthcare-Platform
 
-# Security Operations (SOC)
+# **Security Operations (SOC)**
 
 Monitoring, detection, and rapid response are essential components of an effective security program. These projects demonstrate practical experience analyzing security telemetry, detecting malicious activity, and developing detection logic.
 
@@ -360,29 +396,6 @@ Developed SPL queries, analyzed authentication logs, and created dashboards and 
 **Skills:** Splunk • Threat Hunting • SPL • Log Analysis • Detection Engineering • Security Monitoring
 
 🔗 https://github.com/Dorakhris/Splunk-Log-Analysis
-
-# Security Tool Development & Automation
-
-Automation improves efficiency, consistency, and scalability across security operations. These projects demonstrate my ability to develop practical tools that solve real-world security challenges using Python and automation technologies.
-
-
-
-## DOSINT
-
-Developed **DOSINT**, a Python-based OSINT and digital forensics automation framework designed to accelerate investigations through automated data collection and intelligent pivoting between discovered artifacts.
-
-**Skills:** Python • OSINT • Digital Forensics • Automation • CLI Development
-
-🔗 https://github.com/Dorakhris/dosint
-
-
-## Vulnerability Management & Automated Remediation
-
-Designed an end-to-end vulnerability management workflow by identifying critical vulnerabilities with Nessus and automating remediation using Ansible playbooks.
-
-**Skills:** Vulnerability Management • Nessus • Ansible • Automation • Security Operations
-
-🔗 https://github.com/Dorakhris/Vulnerability-Assessment-lab
 
 
 
@@ -400,7 +413,7 @@ I believe cybersecurity is a discipline of continuous learning. Alongside hands-
 - Certified Cybersecurity Educator Professional (CCEP)
 - CompTIA Security+ *(In Progress)*
 
----
+
 
 # Current Areas of Focus
 
