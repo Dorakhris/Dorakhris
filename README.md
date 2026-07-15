@@ -1,4 +1,6 @@
-Welcome! I'm Dorathy Christopher, a cybersecurity consultant passionate about helping organizations understand, assess, and strengthen their security posture.
+# Welcome! 
+
+I'm Dorathy Christopher, a cybersecurity consultant passionate about helping organizations understand, assess, and strengthen their security posture.
 
  I specialize in translating complex security challenges into practical, actionable solutions through cybersecurity consulting, digital forensics, incident response, governance, risk and compliance (GRC), threat intelligence, cloud security, and security assessments.
 
@@ -109,18 +111,7 @@ As the lead consultant, I produced a professional **Statement of Work (SOW)** ou
 
 The engagement was designed to evaluate the organization's security posture, assess resilience against ransomware, phishing, and insider threats, and review alignment with **PCI DSS** and the **Gramm-Leach-Bliley Act (GLBA)** while minimizing operational disruption.
 
-### Highlights
-
-- Security assessment planning
-- Engagement scoping
-- Cybersecurity consulting methodology
-- Executive communication
-- Project planning and estimation
-- Regulatory alignment (PCI DSS & GLBA)
-- Risk management considerations
-- Professional Statement of Work development
-
-**Repository**
+**Skills:** Security assessment planning • Engagement scoping • Cybersecurity consulting methodology • Executive communication • Project planning and estimation • Regulatory alignment (PCI DSS & GLBA) • Risk management considerations • Professional Statement of Work development
 
 🔗 https://github.com/Dorakhris/Statement-of-Work
 
@@ -148,15 +139,7 @@ Performed a comprehensive security audit using the **NIST Cybersecurity Framewor
 
 The engagement included identifying compliance gaps, evaluating existing controls, assessing organizational risk, and producing a prioritized remediation roadmap to improve overall security maturity.
 
-**Skills Demonstrated**
-
-- Security Auditing
-- NIST CSF
-- PCI DSS
-- GDPR
-- Risk Assessment
-- Compliance Gap Analysis
-- Security Recommendations
+**Skills** Security Auditing • NIST CSF • PCI DSS • GDPR • Risk Assessment • Compliance Gap Analysis • Security Recommendations
 
 🔗 https://github.com/Dorakhris/Security-audit
 
@@ -168,14 +151,7 @@ Designed and documented an enterprise security governance framework aligned with
 
 The project includes ten foundational security policies, governance documentation, and a structured policy compliance framework intended to support long-term information security governance.
 
-**Skills Demonstrated**
-
-- Governance
-- Information Security Policies
-- ISO/IEC 27002
-- Compliance
-- Documentation
-- Security Governance
+**Skills** Governance • Information Security Policies • ISO/IEC 27002 • Compliance • Documentation • Security Governance
 
 🔗 https://github.com/Dorakhris/Security-Policy-Framework-Development
 
@@ -187,13 +163,7 @@ Developed an operational incident response playbook based on a spear-phishing in
 
 The playbook demonstrates how technical investigations can be transformed into repeatable operational guidance for security teams.
 
-**Skills Demonstrated**
-
-- Incident Response Planning
-- Playbook Development
-- Security Operations
-- Documentation
-- Standard Operating Procedures
+**Skills** Incident Response Planning • Playbook Development • Security Operations • Documentation • Standard Operating Procedures
 
 🔗 https://github.com/Dorakhris/Incident-Response-Playbook-Forensic-Investigation-of-Spear-Phishing-Data-Exfiltration
 
@@ -380,7 +350,7 @@ The assessment identified eleven critical and high-severity vulnerabilities, inc
 
 🔗 https://github.com/Dorakhris/Web-Application-Penetration-Test-of-a-Healthcare-Platform
 
-# **Security Operations (SOC)**
+# 📌 **Security Operations (SOC)**
 
 Monitoring, detection, and rapid response are essential components of an effective security program. These projects demonstrate practical experience analyzing security telemetry, detecting malicious activity, and developing detection logic.
 
@@ -411,25 +381,6 @@ I believe cybersecurity is a discipline of continuous learning. Alongside hands-
 - ArcX Cyber Threat Intelligence Practitioner
 - Certified Cybersecurity Educator Professional (CCEP)
 - CompTIA Security+ *(In Progress)*
-
-
-
-# Current Areas of Focus
-
-I'm currently expanding my portfolio through consulting-focused case studies and enterprise security assessments, including:
-
-- Cybersecurity Consulting Engagements
-- Security Posture Assessments
-- Governance, Risk & Compliance (GRC)
-- ISO 27001 & NIST CSF Assessments
-- PCI DSS Readiness Assessments
-- Cloud Security Reviews
-- Digital Forensics & Incident Response
-- Threat Intelligence
-- Security Automation
-
-These projects are designed to mirror real-world consulting engagements and demonstrate both technical expertise and business-oriented security decision-making.
-
 
 
 # Let's Connect
