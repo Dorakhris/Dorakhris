@@ -121,7 +121,7 @@ Conducted a forensic investigation into a targeted spear-phishing incident invol
 
 **Skills:** Email Forensics • Incident Response • Header Analysis • Timeline Analysis • Evidence Collection
 
-🔗 https://github.com/Dorakhris/Spear-Phishing-Forensics-Case
+🔗 https://github.com/Dorakhris/Spear-Phishing-Forensics-Case/tree/main/Spear-Phishing-Forensics-Case
 
 
 
