@@ -115,18 +115,6 @@ Developed a comprehensive ISO/IEC 27001:2022 Statement of Applicability (SoA) fo
 
 
 
-## Enterprise Security Audit
-
-Performed a comprehensive security audit using the **NIST Cybersecurity Framework (CSF)** to evaluate an organization's security posture against **PCI DSS** and **GDPR** requirements.
-
-The engagement included identifying compliance gaps, evaluating existing controls, assessing organizational risk, and producing a prioritized remediation roadmap to improve overall security maturity.
-
-**Skills** Security Auditing • NIST CSF • PCI DSS • GDPR • Risk Assessment • Compliance Gap Analysis • Security Recommendations
-
-🔗 https://github.com/Dorakhris/Security-audit
-
-
-
 ## Security Governance Framework Development
 
 Designed and documented an enterprise security governance framework aligned with **ISO/IEC 27002**.
