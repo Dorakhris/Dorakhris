@@ -11,44 +11,6 @@ Whether I'm investigating a phishing campaign, developing an enterprise security
 > Helping organizations make better security decisions through structured analysis, practical recommendations, and evidence-based cybersecurity.
 
 
-# Technical Toolkit
-
-### Security Assessment & Offensive Security
-- Burp Suite
-- Nmap
-- Metasploit
-- Nessus
-
-### Digital Forensics
-- Autopsy
-- FTK Imager
-- Volatility
-- Velociraptor
-
-### Security Operations & Monitoring
-- Splunk
-- Wireshark
-- Wazuh
-- Microsoft Sentinel
-
-### Cloud Security
-- AWS (CloudTrail, IAM)
-- Microsoft Azure (Entra ID, Defender, Azure Firewall)
-
-### Threat Intelligence
-- MITRE ATT&CK
-- OpenCTI
-- YARA
-- OSINT
-
-### Programming & Automation
-- Python
-- PowerShell
-- Bash
-- Ansible
-
-
-
 # **Featured Cybersecurity Projects**
 
 
@@ -126,6 +88,9 @@ The project includes ten foundational security policies, governance documentatio
 🔗 https://github.com/Dorakhris/Security-Policy-Framework-Development
 
 
+# 📌 **Digital Forensics & Incident Response (DFIR)**
+
+These projects demonstrate my experience investigating cyber incidents, reconstructing attack timelines, analyzing malware, examining volatile memory, recovering forensic artifacts, and producing evidence-based investigation reports.
 
 ## Incident Response Playbook
 
@@ -138,11 +103,6 @@ The playbook demonstrates how technical investigations can be transformed into r
 🔗 https://github.com/Dorakhris/Incident-Response-Playbook-Forensic-Investigation-of-Spear-Phishing-Data-Exfiltration
 
 These projects demonstrate how I approach cybersecurity from a consulting perspective, combining technical expertise with governance, risk management, business communication, regulatory considerations, and executive-focused documentation.
-
-# 📌 **Digital Forensics & Incident Response (DFIR)**
-
-These projects demonstrate my experience investigating cyber incidents, reconstructing attack timelines, analyzing malware, examining volatile memory, recovering forensic artifacts, and producing evidence-based investigation reports.
-
 
 
 ## Memory Forensics Investigation of Cridex Malware
