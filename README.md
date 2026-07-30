@@ -76,7 +76,7 @@ Designed an end-to-end vulnerability management workflow by identifying critical
 🔗 https://github.com/Dorakhris/Vulnerability-Assessment-lab
 
 
-# 📌 **Cybersecurity Consulting**
+# 📌 **Cybersecurity Consulting/GRC**
 These engagements demonstrate my approach to cybersecurity consulting, helping organizations understand their security posture, identify risk, strengthen governance, and make informed security decisions.
 
 Rather than focusing solely on technical findings, these projects emphasize structured assessments, executive communication, regulatory alignment, and practical recommendations that support business objectives.
@@ -138,43 +138,6 @@ The playbook demonstrates how technical investigations can be transformed into r
 🔗 https://github.com/Dorakhris/Incident-Response-Playbook-Forensic-Investigation-of-Spear-Phishing-Data-Exfiltration
 
 These projects demonstrate how I approach cybersecurity from a consulting perspective, combining technical expertise with governance, risk management, business communication, regulatory considerations, and executive-focused documentation.
-
-# 📌 **Governance, Risk & Compliance (GRC)**
-
-Strong cybersecurity is built on more than technology. These projects demonstrate my ability to assess organizational risk, evaluate security controls, develop governance frameworks, and align security programs with industry standards and regulatory requirements.
-
-My approach focuses on helping organizations make informed security decisions through structured assessments, documentation, and risk-based recommendations.
-
-
-## Security Governance Framework Development
-
-Designed an enterprise information security governance framework aligned with **ISO/IEC 27002**, including ten foundational security policies and a formal policy compliance framework to support long-term governance and continual improvement.
-
-**Skills:** Information Security Governance • ISO/IEC 27002 • Policy Development • Compliance • Documentation
-
-🔗 https://github.com/Dorakhris/Security-Policy-Framework-Development
-
-
-
-## Enterprise Security Audit
-
-Conducted a security audit using the **NIST Cybersecurity Framework (CSF)** to evaluate organizational security controls against **PCI DSS** and **GDPR** requirements.
-
-Produced a risk-based remediation roadmap designed to strengthen compliance and improve overall security maturity.
-
-**Skills:** Security Auditing • NIST CSF • PCI DSS • GDPR • Compliance Assessment • Risk Analysis
-
-🔗 https://github.com/Dorakhris/Security-audit
-
-
-
-## Incident Response Playbook
-
-Developed a standardized incident response playbook based on a spear-phishing investigation, providing documented procedures for identification, containment, eradication, recovery, and post-incident activities.
-
-**Skills:** Incident Response Planning • Playbook Development • Security Documentation • Security Operations
-
-🔗 https://github.com/Dorakhris/Incident-Response-Playbook-Forensic-Investigation-of-Spear-Phishing-Data-Exfiltration
 
 # 📌 **Digital Forensics & Incident Response (DFIR)**
 
