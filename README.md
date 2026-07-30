@@ -164,16 +164,6 @@ Performed a forensic examination of a malicious email by analyzing SMTP headers,
 🔗 https://github.com/Dorakhris/Phishing-Email-Analysis
 
 
-
-## Incident Handler's Journal
-
-Maintained a structured incident response journal documenting investigations across ransomware, data extortion, and vulnerability management scenarios. The journal follows industry-standard incident response phases and emphasizes documentation, decision-making, and lessons learned.
-
-**Skills:** Incident Response • Documentation • Security Operations • Case Management
-
-🔗 https://github.com/Dorakhris/Incident-Journal
-
-
 # 📌 **Threat Intelligence**
 
 Understanding threats goes beyond identifying indicators of compromise. These projects focus on analyzing adversaries, mapping tactics, techniques, and procedures (TTPs), assessing organizational exposure, and translating technical intelligence into actionable recommendations for decision-makers.
