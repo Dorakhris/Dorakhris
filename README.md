@@ -75,6 +75,13 @@ Developed a comprehensive ISO/IEC 27001:2022 Statement of Applicability (SoA) fo
 
 🔗 https://github.com/Dorakhris/ISO-IEC-27001-2022-Statement-of-Applicability-SoA-
 
+### ISO/IEC 27001:2022 ISMS Scoping & Statement of Applicability Workshop for Safempire Health
+
+Designed and documented an ISO/IEC 27001:2022 ISMS Scoping Workshop for a telemedicine company, defining the ISMS scope, identifying stakeholders and information assets, establishing scope boundaries, and developing an initial Statement of Applicability (SoA). Produced a practical implementation roadmap aligned with ISO 27001, HIPAA, and GDPR requirements to support certification readiness.
+
+**Skills:** ISO/IEC 27001 • Information Security Management Systems (ISMS) • Governance, Risk & Compliance (GRC) • ISMS Scoping • Statement of Applicability (SoA) • Stakeholder Analysis • Information Security Governance • Risk Assessment • HIPAA • GDPR • Security Documentation
+
+🔗 https://github.com/Dorakhris/ISO-27001-2022-ISMS-Scoping-SoA
 
 
 ## Security Governance Framework Development
