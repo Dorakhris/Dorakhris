@@ -64,3 +64,5 @@ MITRE ATT&CK · OpenCTI · MISP · Python · Maltego · VirusTotal · Wireshark 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/dorathychristopher/) · [Medium](https://medium.com/@dorathychristopher/) · [Safempire](https://thesafempire.com/)
+
+View my other projects here: [PROJECTS](https://github.com/Dorakhris/Projects/blob/main/README.md/) 
