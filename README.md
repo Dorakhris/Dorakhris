@@ -14,7 +14,7 @@ This GitHub profile brings together my independent projects, practical labs and 
 - **OSINT & Digital Investigations:** Information gathering, digital footprint analysis, infrastructure research and investigation support.
 - **Digital Risk & Security Research:** External exposure, AI-brand impersonation, malicious infrastructure and software supply-chain risks.
 
-## GRC & Cybersecurity Risk
+## GRC & Cybersecurity Consulting
 
 These projects focus on identifying security risks, evaluating controls, documenting requirements and developing practical recommendations.
 
